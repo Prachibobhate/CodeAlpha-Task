@@ -102,10 +102,9 @@ AAPL added to your portfolio!
 
 Choose an option: 3
 Your Portfolio:
----------------------------------
+
 Ticker  |  Current Price  |  Change  |  % Change  |  Quantity  |  Total Value
 AAPL    |  $150.00        |  +$2.00  |  +1.35%    |  10        |  $1500.00
-...
 
 Choose an option: 4
 Exporting portfolio data to portfolio.csv...
